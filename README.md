@@ -12,3 +12,5 @@ Through my previous work experience, I've learned that we can do everything righ
 # Portfolio
 
 Future work will appear here!
+
+[Click to view Assignment 1 visualizations](/dataviz2.md)
