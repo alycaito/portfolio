@@ -1,7 +1,8 @@
 # OECD Government Debt
 <iframe src="https://data.oecd.org/chart/5PeE" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5PeE" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
-## Beeswarm Plot
+## Debt-to-GDP Ratio Over Time in OECD Countries
+
 The following visualization shows the value of government debt as a percentage of GDP for a selection of countries from 1996 to 2018.
 Each year is represented by circle and the radius of the circle increases or decreases relative to the value of the debt-to-GDP ratio
 in that year. As time increases horizontally from left to right, we can see how the debt-to-GDP ratio changes over time based on the size of the circles.
