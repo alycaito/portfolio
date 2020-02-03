@@ -28,7 +28,7 @@ After critiquing the original visualization, there were two main things I wanted
 1) Streamline the design - cutting down on unneccessary clutter
 2) Make the message that growth rates dropped because of a drought more obvious
 
-In my wireframes (see below), I tried to make the X-axis easier to read and eliminated all the grid lines. I decided to make the GDP line gray since it seems the original designers wanted Agriculture and Food Crops to be the focal point of the visualization (as evidenced by the original title). I also removed the red bar, which was highlighted a survey period that had little to do with the message of the graph. Instead, I highlighted the period of drought that was mentioned in the text of the report. Since the point of the visualization was to depict how growth rates changed over time, especially after the drought, I reworked the title into something more informative and engaging. 
+In my wireframes (see below), I tried to make the X-axis easier to read and eliminated all the grid lines. I decided to make the GDP line gray since it seems the original designers wanted Agriculture and Food Crops to be the focal point of the visualization (as evidenced by the original title). I also removed the red bar, which was highlighted a survey period that had little to do with the message of the graph. Instead, I highlighted the period of drought that was mentioned in the text of the report (dates were mentioned in report text, and were not on original visualization). Since the point of the visualization was to depict how growth rates changed over time, especially after the drought, I reworked the title into something more informative and engaging. 
 
 ![](https://alycaito.github.io/portfolio/Chart_redesign1.PNG)
 ![](https://alycaito.github.io/portfolio/Chart_redesign2.PNG)
@@ -42,3 +42,5 @@ In the final visualization, I wasn't able to redesign the x-axis to exactly how 
 ![](https://alycaito.github.io/portfolio/Figure15-2.png)
 
 This visualization shows how the growth rate of the Agricultural sector, Food crops, and total GDP change over time from Quarter 4 in 2014 to Quarter 2 in 2018 in Rwanda. From Quarter 4 of 2015 to Quarter 4 of 2016, some provinces in Rwanda experienced an exceptionally long drought which negatively impacted crop yields. In the chart, it is apparent that growth rates for the agricultural sector and food crops decreased during the drought period. Total GDP also decreased, although there was a bit more of a lag.
+
+Although the changes from the original to the redesigned version are not significant, I think the new visualization more clearly communicates the information written in the report. The viewer will be able to draw conclusions about the trends they are seeing in the graph much quicker in the new version.
