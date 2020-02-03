@@ -21,6 +21,6 @@ Through my previous work experience, I've learned that we can do everything righ
 Source: Rwanda Poverty Profile Report 2016/17, National Institue of Statistics Rwanda
 https://www.statistics.gov.rw/publication/eicv-5-rwanda-poverty-profile-report-201617
 ### Re-Designed Visualization
-![](https://alycaito.github.io/portfolio/Figure15.png)
+![](https://alycaito.github.io/portfolio/Figure15-2.png)
 ![](https://alycaito.github.io/portfolio/Chart_redesign1.PNG)
 ![](https://alycaito.github.io/portfolio/Chart_redesign2.PNG)
