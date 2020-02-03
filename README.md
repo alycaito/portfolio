@@ -13,4 +13,4 @@ Through my previous work experience, I've learned that we can do everything righ
 
 [Click to view Assignment 1 visualizations](https://alycaito.github.io/portfolio/dataviz2)
 
-![](https://alycaito.github.io/portfolio/figure15.png)
+![](https://alycaito.github.io/portfolio/Figure15.png)
