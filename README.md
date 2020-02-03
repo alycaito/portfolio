@@ -22,5 +22,7 @@ Source: Rwanda Poverty Profile Report 2016/17, National Institue of Statistics R
 https://www.statistics.gov.rw/publication/eicv-5-rwanda-poverty-profile-report-201617
 ### Re-Designed Visualization
 ![](https://alycaito.github.io/portfolio/Figure15-2.png)
+
+#### Wireframes
 ![](https://alycaito.github.io/portfolio/Chart_redesign1.PNG)
 ![](https://alycaito.github.io/portfolio/Chart_redesign2.PNG)
