@@ -15,7 +15,9 @@ Through my previous work experience, I've learned that we can do everything righ
 
 ## Visualization Critique and Redesign
 ### Original Visualization
-![](https://alycaito.github.io/portfolio/Data_critique_RW.png)
+
+![](https://alycaito.github.io/portfolio/Data_critique_RW.PNG)
+
 Source: Rwanda Poverty Profile Report 2016/17, National Institue of Statistics Rwanda
 https://www.statistics.gov.rw/publication/eicv-5-rwanda-poverty-profile-report-201617
 ### Re-Designed Visualization
