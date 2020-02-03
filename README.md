@@ -20,6 +20,9 @@ Through my previous work experience, I've learned that we can do everything righ
 
 Source: Rwanda Poverty Profile Report 2016/17, National Institue of Statistics Rwanda
 https://www.statistics.gov.rw/publication/eicv-5-rwanda-poverty-profile-report-201617
+
+I selected this visualization to redesign because I felt like there was a lot going in the chart, and the message wasn't clearly coming through. Although the original designers chose an intuitive way to represent the trends over time, the visualization could benefit from some design tweaks to make the message more salient.
+
 ### Re-Designed Visualization
 ![](https://alycaito.github.io/portfolio/Figure15-2.png)
 
