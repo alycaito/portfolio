@@ -12,6 +12,7 @@ Through my previous work experience, I've learned that we can do everything righ
 # Portfolio
 
 [Click to view Assignment 1 visualizations](https://alycaito.github.io/portfolio/dataviz2)
+
 [Click to view Final Project](https://alycaito.github.io/portfolio/finalproject)
 
 ## Visualization Critique and Redesign
