@@ -6,16 +6,18 @@ Title: Cash is King?
 Summary:
 
 #### Story Structure
-Problem: While the poverty rate in Africa has slowly decreased, the number of extremely poor continues to rise.
+Problem: While the poverty rate in Africa has slowly decreased, the number of extremely poor continues to rise. (show with visualization)
 
 Potential solution: New policy solutions should be considered: direct transfers of cash to the poor - without any conditions or suggestions on how it should be spent - are potentially a productive and cost-effective way to help people out of poverty.
 
 Myth 1 - Poor people who are given cash assistance with no conditions will waste it on temptation goods or luxury items.
-   
-Myth 2 - Cash interventions aren't as impactful as traditional social programs as a poverty reduction strategy
-- A Cash benchmarking study (randomized control trial) showed that cash transfers were more effective than and integrated nutrition and WASH (Water, Sanitation, and Hygiene) program. Neither had a significant impact on nutrition or child growth outcomes, but the cash transfer decreased child mortality by 70% and helped participants pay down debt. I will depict the exact results/comparisons in a visualization.
+- A study in Kenya of an unconditional cash transfer found that household consumption increased across a range of good such as food, medical and educational expenses, and social events but there was no increased expenditure on temptation goods like alcohol or tobacco. (depict in visualization)
+- The study also showed that participating households increased investments (livestock, furniture, metal roofs) by 58% (US$272) Households also increased investments in income-generating activities and revenues from these activities increased by 34%.
+
+Myth 2 - Cash interventions aren't as impactful as traditional social programs as a poverty reduction strategy.
+- A Cash benchmarking study in Rwanda (randomized control trial) showed that cash transfers were more effective than and integrated nutrition and WASH (Water, Sanitation, and Hygiene) program. Neither had a significant impact on nutrition or child growth outcomes, but the cash transfer decreased child mortality by 70% and helped participants pay down debt. I will depict the exact results/comparisons in a visualization.
   
-Call to action: Support direct cash transfers to the poor. Donate to the charity GiveDirectly that is providing cash transfers to the world's poorest and is involved in multiple rigorous studies to determine the long-term impact of cash transfers.
+Call to action: Support direct cash transfers to the poor. Donate to the charity GiveDirectly that is providing cash transfers to the world's poorest and is involved in multiple rigorous studies to evaluate the long-term impact of cash transfers.
 
 ## Sketches
 
