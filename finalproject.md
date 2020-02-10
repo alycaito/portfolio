@@ -37,5 +37,6 @@ For the World Bank dataset and visualization, I currently intend to use the pove
 I also plan to use images such as the one below to show who direct cash transfer programs aim to help.
 
 ![](https://alycaito.github.io/portfolio/GettyImages_951670148.0.webp)
+An outdoor produce market in Gisakura Village, Rwanda. UIG via Getty Images
 
 [Return to homepage](/portfolio)
