@@ -27,6 +27,8 @@ Call to action: Support direct cash transfers to the poor. Donate to the charity
 
 ![](https://alycaito.github.io/portfolio/project_sketch2.PNG)
 
+![](https://alycaito.github.io/portfolio/project_sketch3.PNG)
+
 ## Data
 
 The World Bank [data](https://alycaito.github.io/portfolio/RegionalTable_1.9.csv) from PovcalNet will be used to demonstrate how the number of poor people in Sub-Saharan Africa is increasing over time. The dataset contains poverty estimates (assuming the poverty level of $1.90 a day) by region from 2015 to 1981 (although, not all regions have data back to 1981). It includes the poverty rate, poverty gap, squared poverty gap, and total regional population. The total number of people below the poverty line can be calculated by multiplying the poverty rate by the total regional population. I plan on using this data to demonstrate how the poverty rate has been decreasing in Sub-Saharan Africa, but the total number of people in poverty is actually increasing. 
@@ -45,6 +47,8 @@ McIntosh, C. & Zeitlin, A. (2018). Benchmarking a Child Nutrition Program agains
 I will be using Shorthand to complete and present my final project. 
 
 For the World Bank dataset and visualization, I currently intend to use the poverty rate and total number of people in poverty to create my visualization but I will experiment and see if some of the other measures included in my dataset yield interesting insights that I would like to present. The dataset contains data back to 1990 for Sub-Saharan Africa, but as part of my process I will determine how many years need to be included in my visualization to effectively present my point. 
+
+I have created a few preliminary sketches to outline a few ideas I would like to present. As I continue to refine my story I will revise my original sketches and add new ones as I further explore the datasets.
 
 For now, I have also kept the data story short. There is other data/studies that I could potentially tie in to bolster and/or clarify my message, but at this stage I will work with a streamlined version and then determine whether more details/data should be added. I intend to get feedback from my peers regarding the impactfulness and clarity of my story and plan to ask them what questions arise when they view my story. That will give me an idea if there are other gaps I need to fill in.
 
