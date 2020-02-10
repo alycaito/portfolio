@@ -28,7 +28,7 @@ The World Bank [data](https://alycaito.github.io/portfolio/RegionalTable_1.9.csv
 
 Source: World Bank PovcalNet.
 
-The [data](https://alycaito.github.io/portfolio/UCT_FINAL_CLEAN.dta) from Shapiro and Haushofer's randomized control trial contains survey data from 1440 households in 120 villages from 2011 to 2013. This data is in .dta format, which I will analyze in Stata. They also provide their dofiles (code) for conducting their econometric analysis, which I will use to replicate their results and then capture those estimates in a separate data file. 
+The [data](https://alycaito.github.io/portfolio/UCT_FINAL_CLEAN.dta) from Shapiro and Haushofer's randomized control trial contains survey data from 1440 households in 120 villages from 2011 to 2013. This data is in .dta format, which I will analyze in Stata. They also provide their dofiles (code) for conducting their econometric analysis, which I will use to replicate their results and then capture those estimates in a separate data file. I will use this data to depict the results I explained in my outline for Myth 1.
 
 Source: Haushofer, Johannes; Shapiro, Jeremy, 2017, "Replication Data for: The Short-Term Impact Of Unconditional Cash Transfers To The Poor: Experimental Evidence From Kenya", https://doi.org/10.7910/DVN/M2GAZN, Harvard Dataverse, V1
 
