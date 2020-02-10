@@ -3,7 +3,7 @@
 
 Title: Cash is King?
 
-Summary:
+Summary: While the idea of giving cash without conditions to those in poverty has been controversial as a poverty-reduction strategy, emerging evidence supports that cash is effective at improving livelihoods and may produce better outcome than traditional social programs. After all, who knows better what the poor needs than the poor themselves.
 
 #### Story Structure
 Problem: While the poverty rate in Africa has slowly decreased, the number of extremely poor continues to rise. (show with visualization)
