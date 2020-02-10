@@ -14,6 +14,7 @@ Myth 1 - Poor people who are given cash assistance with no conditions will waste
 - A study in Kenya of an unconditional cash transfer found that household consumption increased across a range of good such as food, medical and educational expenses, and social events but there was no increased expenditure on temptation goods like alcohol or tobacco. (depict in visualization)
 - The study also showed that participating households increased investments (livestock, furniture, metal roofs) by 58% (US$272) Households also increased investments in income-generating activities and revenues from these activities increased by 34%.
 
+
 Myth 2 - Cash interventions aren't as impactful as traditional social programs as a poverty reduction strategy.
 - A Cash benchmarking study in Rwanda (randomized control trial) showed that cash transfers were more effective than and integrated nutrition and WASH (Water, Sanitation, and Hygiene) program. Neither had a significant impact on nutrition or child growth outcomes, but the cash transfer decreased child mortality by 70% and helped participants pay down debt. I will depict the exact results/comparisons in a visualization.
   
