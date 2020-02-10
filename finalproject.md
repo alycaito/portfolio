@@ -7,14 +7,13 @@ Premise:
 
 Problem: While the poverty rate in Africa has slowly decreased, the number of extremely poor people continues to rise.
 
-Potential solution: 
+Potential solution: New policy solutions should be considered: direct transfers of cash to the poor - without any conditions or suggestions on how it should be spent - are potentially a productive and cost-effective way to help people out of poverty.
 
 Myth 1 - Poor people who are given cash assistance with no conditions will waste it on temptation goods or luxury items.
    
 Myth 2 - Cash interventions aren't as impactful as traditional social programs as a poverty reduction strategy
-- Cash benchmarking study showed that cash more effective than WASH or nutrition programs
+- A Cash benchmarking study (randomized control trial) showed that cash transfers were more effective than and integrated nutrition and WASH (Water, Sanitation, and Hygiene) program. Neither had a significant impact on nutrition or child growth outcomes, but the cash transfer decreased child mortality by 70% and helped participants pay down debt. I will depict the exact results/comparisons in a visualization.
   
-
 Call to action: Support direct cash transfers to the poor. Donate to the charity GiveDirectly that is providing cash transfers to the world's poorest and is involved in multiple rigorous studies to determine the long-term impact of cash transfers.
 
 ## Sketches
@@ -38,7 +37,7 @@ I will be using Shorthand to complete and present my final project.
 
 For the World Bank dataset and visualization, I currently intend to use the poverty rate and total number of people in poverty to create my visualization but I will experiment and see if some of the other measures included in my dataset yield interesting insights that I would like to present. The dataset contains data back to 1990 for Sub-Saharan Africa, but as part of my process I will determine how many years need to be included in my visualization to effectively present my point. 
 
-I also plan to use images such as the one below to show who direct cash transfer programs aim to help.
+I also plan to use images such as the one below to show the context/who direct cash transfer programs aim to help.
 
 ![](https://alycaito.github.io/portfolio/GettyImages_951670148.0.webp)
 An outdoor produce market in Gisakura Village, Rwanda. UIG via Getty Images
