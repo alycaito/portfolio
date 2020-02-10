@@ -54,9 +54,8 @@ I have created a few preliminary sketches to outline a few ideas I would like to
 
 For now, I have also kept the data story short. There is other data/studies that I could potentially tie in to bolster and/or clarify my message, but at this stage I will work with a streamlined version and then determine whether more details/data should be added. I intend to get feedback from my peers regarding the impactfulness and clarity of my story and plan to ask them what questions arise when they view my story. That will give me an idea if there are other gaps I need to fill in.
 
-To help illustrate my data story, I plan to use images such as the one below to show the context/who direct cash transfer programs aim to help.
+To help illustrate my data story, I plan to use images to show the context/who direct cash transfer programs aim to help.
 
-![](https://alycaito.github.io/portfolio/GettyImages_951670148.0.webp)
-An outdoor produce market in Gisakura Village, Rwanda. UIG via Getty Images
+
 
 [Return to homepage](/portfolio)
