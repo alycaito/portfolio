@@ -23,6 +23,8 @@ Call to action: Support direct cash transfers to the poor. Donate to the charity
 ## Sketches
 ![](https://alycaito.github.io/portfolio/project_outline.PNG)
 
+![](https://alycaito.github.io/portfolio/project_sketch1.PNG)
+
 ## Data
 
 The World Bank [data](https://alycaito.github.io/portfolio/RegionalTable_1.9.csv) from PovcalNet will be used to demonstrate how the number of poor people in Sub-Saharan Africa is increasing over time. The dataset contains poverty estimates (assuming the poverty level of $1.90 a day) by region from 2015 to 1981 (although, not all regions have data back to 1981). It includes the poverty rate, poverty gap, squared poverty gap, and total regional population. The total number of people below the poverty line can be calculated by multiplying the poverty rate by the total regional population. I plan on using this data to demonstrate how the poverty rate has been decreasing in Sub-Saharan Africa, but the total number of people in poverty is actually increasing. 
