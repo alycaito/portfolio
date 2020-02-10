@@ -34,4 +34,8 @@ I will be using Shorthand to complete and present my final project.
 
 For the World Bank dataset and visualization, I currently intend to use the poverty rate and total number of people in poverty to create my visualization but I will experiment and see if some of the other measures included in my dataset yield interesting insights that I would like to present. The dataset contains data back to 1990 for Sub-Saharan Africa, but as part of my process I will determine how many years need to be included in my visualization to effectively present my point. 
 
+I also plan to use images such as the one below to show who direct cash transfer programs aim to help.
+
+![](https://alycaito.github.io/portfolio/GettyImages_951670148.0.webp)
+
 [Return to homepage](/portfolio)
