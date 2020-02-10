@@ -21,6 +21,7 @@ Myth 2 - Cash interventions aren't as impactful as traditional social programs a
 Call to action: Support direct cash transfers to the poor. Donate to the charity GiveDirectly that is providing cash transfers to the world's poorest and is involved in multiple rigorous studies to evaluate the long-term impact of cash transfers.
 
 ## Sketches
+![](https://alycaito.github.io/portfolio/project_outline.PNG)
 
 ## Data
 
