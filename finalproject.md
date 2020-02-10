@@ -15,7 +15,7 @@ Myth 2 - Cash interventions aren't as impactful as traditional social programs a
 - Cash benchmarking study showed that cash more effective than WASH or nutrition programs
   
 
-Call to action: Support direct cash transfers to the poor. Donate to the charity GiveDirectly that is providing cash transfer 
+Call to action: Support direct cash transfers to the poor. Donate to the charity GiveDirectly that is providing cash transfers to the world's poorest and is involved in multiple rigorous studies to determine the long-term impact of cash transfers.
 
 ## Sketches
 
