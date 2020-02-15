@@ -5,3 +5,5 @@
 ![](https://alycaito.github.io/portfolio/fp_w4.PNG)
 ![](https://alycaito.github.io/portfolio/fp_w5.PNG)
 ![](https://alycaito.github.io/portfolio/fp_w6.PNG)
+![](https://alycaito.github.io/portfolio/fp_w7.PNG)
+![](https://alycaito.github.io/portfolio/fp_w8.PNG)
