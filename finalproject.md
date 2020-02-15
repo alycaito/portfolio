@@ -57,5 +57,6 @@ For now, I have also kept the data story short. There is other data/studies that
 To help illustrate my data story, I plan to use images to show the context/who direct cash transfer programs aim to help.
 
 
+[Wireframes](/wireframes)
 
 [Return to homepage](/portfolio)
