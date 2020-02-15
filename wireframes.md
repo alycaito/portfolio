@@ -9,6 +9,6 @@
 ![](https://alycaito.github.io/portfolio/fp_w8.PNG)
 ![](https://alycaito.github.io/portfolio/fp_w9.PNG)
 ![](https://alycaito.github.io/portfolio/fp_w10.PNG)
-![](https://alycaito.github.io/portfolio/project_sketch1.PNG)
+![](https://alycaito.github.io/portfolio/project_sketch2.PNG)
 
 
