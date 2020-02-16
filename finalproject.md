@@ -68,15 +68,15 @@ To help illustrate my data story, I plan to use images to show the context/who d
 **Interview Script:** 
 Hi, I'm looking for feedback on a data story for my Telling Stories with Data class. It will take 10 minutes for you to read through the story and discuss your thoughts on it. While reading through the story, please keep a mental note of things you like and don't like, as well as things you might find confusing. Afterwards, I will ask you a few follow-up questions.
 
-What do you think is the purpose of this story? How would you summarize it?
+1. What do you think is the purpose of this story? How would you summarize it?
 
-What are your thoughts on evidence presented for unconditional cash transfers?
+2. What are your thoughts on evidence presented for unconditional cash transfers?
 
-Do you have any questions that you feel the story does not address?
+3. Do you have any questions that you feel the story does not address?
 
-Is there anything else that is confusing about the story?
+4. Is there anything else that is confusing about the story?
 
-Please share your observations on the data visualizations. What worked well or caught your attention? Is there anything you would do differently?
+5. Please share your observations on the data visualizations. What worked well or caught your attention? Is there anything you would do differently?
 
 
 [Return to homepage](/portfolio)
