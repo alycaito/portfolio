@@ -63,7 +63,7 @@ To help illustrate my data story, I plan to use images to show the context/who d
 
 **Target Audience:** people interested in international development, people who are concerned about global poverty, people who want to donate to charitable organizations and want to make sure their contributions are maximized/used productively
 
-**Approach to identifying respondents:** I decided to interview my friends in the Heinz public policy program. Since my project presents data on a policy, I felt that other policy students would be best positioned to give me useful feedback on my wireframes. They are also the closest to my target audience that is easily accessible to me.
+**Approach to identifying respondents:** I decided to interview two friends in the Heinz public policy program. Since my project presents data on a policy, I felt that other policy students would be best positioned to give me useful feedback on my wireframes. They are also the closest to my target audience that is easily accessible to me. For the last person, I decided to interview my sister who is a marketing student. I wanted to make sure the story makes sense to someone outside the policy realm and she also has a different perspective on what might be interesting or confusing for users.
 
 **Interview Script:** 
 Hi, I'm looking for feedback on a data story for my Telling Stories with Data class. It will take 10 minutes for you to read through the story and discuss your thoughts on it. While reading through the story, please keep a mental note of things you like and don't like, as well as things you might find confusing. Afterwards, I will ask you a few follow-up questions.
