@@ -78,5 +78,10 @@ Hi, I'm looking for feedback on a data story for my Telling Stories with Data cl
 
 5. Please share your observations on the data visualizations. What worked well or caught your attention? Is there anything you would do differently?
 
+**Feedback**
+Below is a summary of the participants' feedback
+![](https://alycaito.github.io/portfolio/feedback1.PNG)
+![](https://alycaito.github.io/portfolio/feedback2.PNG)
+![](https://alycaito.github.io/portfolio/feedback3.PNG)
 
 [Return to homepage](/portfolio)
