@@ -10,5 +10,8 @@
 ![](https://alycaito.github.io/portfolio/fp_w9.PNG)
 ![](https://alycaito.github.io/portfolio/fp_w10.PNG)
 ![](https://alycaito.github.io/portfolio/project_sketch2.PNG)
+![](https://alycaito.github.io/portfolio/fp_w11.PNG)
+![](https://alycaito.github.io/portfolio/fp_w12.PNG)
+![](https://alycaito.github.io/portfolio/project_sketch3.PNG)
 
 
