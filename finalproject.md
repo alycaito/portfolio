@@ -56,7 +56,23 @@ For now, I have also kept the data story short. There is other data/studies that
 
 To help illustrate my data story, I plan to use images to show the context/who direct cash transfer programs aim to help.
 
+## Initial Wireframes 
+[Wireframes link](/wireframes.md)
 
-[Wireframes](/wireframes.md)
+## User Research
+
+Target Audience: people interested in international development, people who are concerned about global poverty, people who want to donate to charitable organizations and want to make sure their contributions are maximized/used productively
+
+Approach to identifying respondents: I decided to interview my friends in the Heinz public policy program. Since my project presents data on a policy, I felt that other policy students would be best positioned to give me useful feedback on my wireframes. They are also the closest to my target audience that is easily accessible to me.
+
+Interview Script: 
+Hi, I'm looking for feedback on a data story for my Telling Stories with Data class. It will take 10 minutes for you to read through the story and discuss your thoughts on it. While reading through the story, please keep a mental note of things you like and don't like, as well as things you might find confusing. Afterwards, I will ask you a few follow-up questions.
+
+What do you think is the purpose of this story? How would you summarize it?
+What are your thoughts on evidence presented for unconditional cash transfers?
+Do you have any questions that you feel the story does not address?
+Is there anything else that is confusing about the story?
+Please share your observations on the data visualizations. What worked well or caught your attention? Is there anything you would do differently?
+
 
 [Return to homepage](/portfolio)
