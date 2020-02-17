@@ -1,4 +1,4 @@
 # Revised Wireframes
-![](New Wireframe 2.png)
-![](New Wireframe 1.png)
+![](https://alycaito.github.io/portfolio/wireframe1.PNG)
+![](https://alycaito.github.io/portfolio/wireframe2.PNG)
 
