@@ -57,6 +57,8 @@ For now, I have also kept the data story short. There is other data/studies that
 To help illustrate my data story, I plan to use images to show the context/who direct cash transfer programs aim to help.
 
 ## Initial Wireframes 
+Below is a link to the story sketches I intially drew and used for user feedback.
+
 [Wireframes link](/wireframes.md)
 
 ## User Research
@@ -85,10 +87,10 @@ Below is a summary of the participants' feedback
 ![](https://alycaito.github.io/portfolio/feedback2.PNG)
 ![](https://alycaito.github.io/portfolio/feedback3.PNG)
 
-**Overall Findings:** I found that all my participants understood the purpose of the story well, so in general I think the overall structure of the story is succeeding. The last graph that I used to express how cash performed better than another program was universally disliked, I will definitely rework this visualization to be more clear and impactful. From the feedback I think that I need to tie in more context. I had been intentionally keeping the text to a minimum, but in order to give the viewer a more detailed and clear picture of the story, I think there are some areas in which I need to include more explanation. However, I did receive feedback that the sections where there is a lot of text are less engaging, so I intend to add some photos to make those parts of the story more interesting. One of my participants mentioned it could be beneficial to add another myth if I have one, so I decided to add another. The visualization for it is still TBD, but I will use a multi-country study to illustrate my point.
+**Overall Findings:** I found that all my participants understood the purpose of the story well, so in general I think the overall structure of the story is succeeding. The last graph that I used to express how cash performed better than another program was universally disliked, I will definitely rework this visualization to be more clear and impactful. From the feedback I think that I need to tie in more context. I had been intentionally keeping the text to a minimum, but in order to give the viewer a more detailed and clear picture of the story, I think there are some areas in which I need to include more explanation. However, I did receive feedback that the sections where there is a lot of text are less engaging, so I intend to add some photos to make those parts of the story more interesting. One of my participants mentioned it could be beneficial to add another myth if I have one, and I do, so I decided to add another. The visualization for it is still TBD, but I will use a multi-country study from UNICEF to illustrate my point.
 
 ## New Wireframes
-I created these wireframes using Balsamiq. There are some placeholders in the wireframes for some text to further describe the datasets that I have not yet fully fleshed out yet.
+I created these wireframes using Balsamiq after getting user feedback. There are some placeholders in the wireframes for some text to further describe the datasets that I have not yet fully fleshed out yet.
 
 [Revised wireframes link](/wireframes_revised.md)
 
