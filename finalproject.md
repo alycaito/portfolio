@@ -89,6 +89,7 @@ Below is a summary of the participants' feedback
 
 ## New Wireframes
 I created these wireframes using Balsamiq and some of my previous sketches
+
 [Revised wireframes link](/wireframes_revised.md)
 
 [Return to homepage](/portfolio)
