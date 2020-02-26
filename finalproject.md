@@ -1,4 +1,6 @@
 # Final Project
+
+# Part I
 ## Outline
 
 Title: Cash is King?
@@ -56,6 +58,8 @@ For now, I have also kept the data story short. There is other data/studies that
 
 To help illustrate my data story, I plan to use images to show the context/who direct cash transfer programs aim to help.
 
+# Part II
+
 ## Initial Wireframes 
 Below is a link to the story sketches I intially drew and used for user feedback.
 
@@ -95,3 +99,5 @@ I created these wireframes using Balsamiq after getting user feedback. There are
 [Revised wireframes link](/wireframes_revised.md)
 
 [Return to homepage](/portfolio)
+
+# Part III
