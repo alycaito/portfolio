@@ -105,7 +105,13 @@ I created these wireframes using Balsamiq after getting user feedback. There are
 ## Final Data Story
 
 **Making the story work for my audience**
-My audience is primarily 
+My audience is primarily people who are interested in international issues or are concerned about global poverty but don't know much about the current context. I also wanted to target people who want to donate to charitable organizations and want to make sure their contributions going far but don't know where to donate. 
+
+In creating my story, I decided over the process of creating wireframes to expand the section of describing the current poverty landscape. Initially, I had only wanted to show a graph showing the increasing number of poor in Sub-Saharan Africa, but I then realized that although that is sufficient in a story targeted to someone like me, it isn't enough context for someone who isn't as in tune to global poverty issues. In the beginning section, I decided to color the Sub-Saharan Africa region orange in both charts and the infographic to try and keep the storyline consistent and easy to follow. 
+
+In writing the text in the data story, I also made sure to target the information provided towards someone who may not know about the topic. If I had been targeting the story to policymakers, the section answering "what is a cash transfer" "why consider it" and "why is it controversial" would have been unncessary since most policymakers in development are aware of the general merits and concerns of unconditional cash transfers. However, for someone who might be interested in the topic but might not know much, I figured these questions would be their initial reactions/thoughts that they would want answered. 
+
+Finally, I wanted to the photos in my data story to be vivid and set the context well. For Myth 1, the point I wanted to drive home is that cash transfers are often used for productive consumption such as food, so I decided to select a photo of common African vegetables as the background for that section to subtly reinforce that point. I am also personally not a fan of "poverty porn" so I intentionally avoided using images of destitute people to evoke a sense of pity or urgency. I wanted to depict Africa accurately (some of the photos are my own) and also avoid creating a story about "helpless poor that can't do anything without us." The entire narrative of cash transfers is that the poor don't necessarily need paternalistic help - that they know better than anyone else what they need and the only help they need from us is the means (cash) to do so. 
 
 **Reflection**
 
