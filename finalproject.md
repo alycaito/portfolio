@@ -105,6 +105,7 @@ I created these wireframes using Balsamiq after getting user feedback. There are
 ## Final Data Story
 
 **Making the story work for my audience**
+
 My audience is primarily people who are interested in international issues or are concerned about global poverty but don't know much about the current context. I also wanted to target people who want to donate to charitable organizations and want to make sure their contributions going far but don't know where to donate. 
 
 In creating my story, I decided over the process of creating wireframes to expand the section of describing the current poverty landscape. Initially, I had only wanted to show a graph showing the increasing number of poor in Sub-Saharan Africa, but I then realized that although that is sufficient in a story targeted to someone like me, it isn't enough context for someone who isn't as in tune to global poverty issues. In the beginning section, I decided to color the Sub-Saharan Africa region orange in both charts and the infographic to try and keep the storyline consistent and easy to follow. 
