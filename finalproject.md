@@ -105,8 +105,17 @@ I created these wireframes using Balsamiq after getting user feedback. There are
 ## Final Data Story
 
 **Making the story work for my audience**
+My audience is primarily 
 
 **Reflection**
+
+One thing that I decided to change from my wireframes to my final version was the infographic showing that 9 out of 10 people living in extreme poverty will be living in Sub-Saharan Africa by 2030. Originally I had planned to make a simple pie chart showing the same thing, but I think the new graphic is far more engaging and effective than a simple pie chart. 
+
+The visualization that I struggled the most with is the final chart, which shows the results of the cash benchmarking study. My first sketches of these visualizations were pretty bad (in my opinion and my feedback participants') and only focused on one component of the study results. I wanted to tell an accurate story about the results of the study without having too much disjointed information that was hard to interpret. One of the things that I wasn't sure how to depict is that for some measures and programs, there is no statistically significant impact. It seemed liked when I got feedback from participants, that people did not like the confidence interval/error bars on the graph, so I decided I needed to find a way to show that information without it. I also couldn't leave that information out, because it is critical to understanding the study results. I finally settled on a bar chart, showing the percentage increase in the measures relative to the control group. Initially there was a 0% where there was "no impact" but I thought this could be confusing and decided to edit the image to make it say "no impact" instead. I think this visualization could probably still be improved, especially since I recognize it may not be entirely clear what the "no impact" text maps on to. For the bar colors in this chart, I decided to use green for cash and a darker green for the larger cash transfer, which I think is an intuitive color scheme.
+
+In general, I think it was difficult for me to come up with visualizations for the results of the academic studies I highlighted. I wanted the visualizations to be clear and accurate, and so I think I had to sacrifice making them look more visually interesting. I wish I could have come up with a way to depict the study results in a way other than several bar charts, but when I tried to brainstorm how to do this without making the visualizations unnecessarily complicated or misleading I came up short. However, I am happy with the end results. For me, making sure the charts are easily interpretable and accurate representations of the data are the highest priorities, and if that means the visualizations are not the most eye-catching that's ok. My purpose was to present study results that the audience may never read otherwise in a digestable way, and I think I achieved that.
+
+I had hoped to create another section in my data story including another "myth" but I unfortunately did not have the time to do so. I do think that this could have strengthened the narrative more, but I also believe that the primary message is still communicated clearly without it. 
 
 
 
