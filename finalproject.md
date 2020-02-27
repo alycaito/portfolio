@@ -119,7 +119,7 @@ I had hoped to create another section in my data story including another "myth" 
 
 
 
-[https://carnegiemellon.shorthandstories.com/cash-transfers-acaito/index.html]
+(https://carnegiemellon.shorthandstories.com/cash-transfers-acaito/index.html)
 
 <script src="https://embed.shorthand.com/embed_9.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/cash-transfers-acaito/"><h1>Cash Transfers</h1><p>A Poverty Reduction Strategy in Sub-Saharan Africa?</p></div>
