@@ -27,7 +27,7 @@
 
 ![](https://alycaito.github.io/portfolio/wireframe14.png)
 
-![](https://alycaito.github.io/portfolio/wireframe15.png)
+
 
 
 
